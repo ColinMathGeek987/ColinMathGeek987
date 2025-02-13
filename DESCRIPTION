@@ -1,0 +1,20 @@
+Package: MATH4753Colin2025
+Type: Package
+Title: MATH 4753 myplotty
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Le", "Colin",
+      email = "colin.d.le-1@ou.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: Will describe what the function does in the lab.
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2025-02-10 20:46:58 UTC; colin
+Author: Le Colin [aut, cre]
+Maintainer: Le Colin <colin.d.le-1@ou.edu>
