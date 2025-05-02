@@ -1,0 +1,18 @@
+#' Fire Data
+#'
+#' A dataset containing fire damage assessments.
+#'
+#' @format A data frame with X rows and Y columns:
+#' \describe{
+#'   \item{Distance}{How far away the fire spread}
+#'   \item{Damage}{amount of damage done to the area}
+#' }
+#'
+#' @source Fire Department Reports, 202X
+#'
+#' @examples
+#' data(fire)
+#' head(fire)
+#'
+#' @export
+"fire"
